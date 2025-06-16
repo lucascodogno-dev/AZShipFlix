@@ -54,4 +54,4 @@ Pronto! Acesse no navegador: `http://localhost:3000`
 
 ---
 
-
+https://github.com/user-attachments/assets/da315bdf-7ce2-43bc-bff7-79b757229ba0
