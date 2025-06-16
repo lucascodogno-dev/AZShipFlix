@@ -39,7 +39,7 @@ export const EpisodeCard = ({ id, name, episode, air_date, charactersCount }: Pr
             onClick={() => toggleWatched(id)}
             whileTap={{ scale: 0.95 }}
           >
-            {watched.includes(id) ? '👁️ V}isto' : '👁️‍🗨️ Marcar como visto'}
+            {watched.includes(id) ? '👁️ Visto' : '👁️‍🗨️ Marcar como visto'}
           </motion.button>
         </div>
       </div>
