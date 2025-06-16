@@ -1,10 +1,14 @@
----
+
 AZShipFlix Versão Web Responsividade
+
 https://github.com/user-attachments/assets/f38fbf8b-c7a8-4029-a627-13cdcc7273e1
+
 ---
 
 AZShipFlix Versão Mobile Responsividade
+
 https://github.com/user-attachments/assets/57b0d740-e8e5-4eaf-92af-f956c973ed1a
+
 ---
 
 ## 📺 AZShipFlix
@@ -54,4 +58,4 @@ Pronto! Acesse no navegador: `http://localhost:3000`
 
 ---
 
-https://github.com/user-attachments/assets/da315bdf-7ce2-43bc-bff7-79b757229ba0
+
