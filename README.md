@@ -1,5 +1,11 @@
+---
+AZShipFlix Versão Web Responsividade
+https://github.com/user-attachments/assets/f38fbf8b-c7a8-4029-a627-13cdcc7273e1
+---
 
-
+AZShipFlix Versão Mobile Responsividade
+https://github.com/user-attachments/assets/57b0d740-e8e5-4eaf-92af-f956c973ed1a
+---
 
 ## 📺 AZShipFlix
 
